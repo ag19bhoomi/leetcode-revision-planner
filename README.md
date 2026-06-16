@@ -20,7 +20,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173)
+Open [Deployed Link](https://leetcode-revision-planner.vercel.app/)
 
 ## Tech Stack
 
