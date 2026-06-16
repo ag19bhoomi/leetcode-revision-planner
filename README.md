@@ -12,6 +12,10 @@ A sleek, dark-mode React app to track LeetCode problems and automatically schedu
 -  **LocalStorage** — No backend needed, data persists in browser
 -  **Modern Dark UI** — Glassmorphism, gradients, micro-animations
 -  **Responsive** — Mobile-friendly layout
+  
+## Why I built this
+
+While preparing for coding interviews, I noticed I often forgot the patterns behind problems I had already solved. This tool automatically schedules revisions using spaced repetition so solved problems stay fresh.
 
 ## Getting Started
 
